@@ -1,0 +1,25 @@
+export declare const ERROR: {
+    SOMETHING_WAS_WRONG: string;
+    ALREADY_REGISTER: string;
+    INVALID_ACCESS: string;
+    COURSE_IS_NOT_ACTIVE: string;
+    ALREADY_ADD: string;
+    CAN_NOT_FIND_USER: string;
+    GAMER_IS_NOT_READY: string;
+    DUAL_IS_NOT_DONE: string;
+    INVALID_TOKEN: string;
+    USER_BLOCKED: string;
+    INVALID_PASSWORD: string;
+    WIN_ID_EXIST: string;
+    REFERRAL_ID_EXIST: string;
+    PHONE_NUMBER_EXIST: string;
+    USER_NOT_FOUND: string;
+    PASSWORD_DOES_NOT_MATCH: string;
+    INVALID_PARAMS: string;
+    CAN_NOT_FIND_DATA: string;
+    YOU_ARE_NOT_PARENT: string;
+    COURSE_IS_FULL: string;
+    PERMISSION_DENIED: string;
+    CAN_NOT_REMOVE_ADMIN: string;
+    ALREADY_REQUEST_OPEN: string;
+};
