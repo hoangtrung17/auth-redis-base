@@ -35,5 +35,13 @@
     "class-validator": "^0.12.2",
     "dotenv": "^8.2.0",
     "rxjs": "^6.6.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangtrung17/auth-redis-base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hoangtrung17/auth-redis-base/issues"
+  },
+  "homepage": "https://github.com/hoangtrung17/auth-redis-base#readme"
 }
